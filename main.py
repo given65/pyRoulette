@@ -1,0 +1,6 @@
+import roulette
+
+roulette.jouer()
+
+
+
